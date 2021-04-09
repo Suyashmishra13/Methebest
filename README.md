@@ -1,5 +1,10 @@
 # Methebest
 
-My name is God
-
-I like Kim jong um
+#include <stdio.h>
+int main()
+{
+ printf("Hello world")
+ 
+;
+return 0;
+}
